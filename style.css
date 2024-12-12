@@ -1150,6 +1150,7 @@ text-align: center;
     }
     
     .about-text p {
+        padding-left: 10%;
         font-size: 15px;
         line-height: normal;
         letter-spacing: 1px;
